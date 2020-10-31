@@ -45,6 +45,7 @@ public class TestLoginAndLogout {
 
         WebElement messWarn = driver.findElement(By.xpath("//div[@class = \"message warning\" ]"));
         Assert.assertEquals(messWarn.getText(), "Invalid Request");
+        System.out.println("Test OK");
 
 
     }
