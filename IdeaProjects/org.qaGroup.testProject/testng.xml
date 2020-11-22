@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression" verbose="1" >
+    <test name="TestLoginAndLogout" > <classes> <class name="TestLoginAndLogout" /> </classes> </test>
+
+    <test name="TryToFindElements" > <classes> <class name="TryToFindElements" /> </classes> </test>
+
+    <test name="MainPageSearchField" > <classes> <class name="MainPageSearchField" /> </classes> </test>
+
+    <test name="GitHubTestAndPreProdEnv" > <classes> <class name="GitHubTestAndPreProdEnv" /> </classes> </test>
+
+
+
+<!--    <test name="Regression1">-->
+<!--        <classes>-->
+<!--            <class name="TestLoginAndLogout"/>-->
+<!--            <class name="TryToFindElements"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
