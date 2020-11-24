@@ -48,8 +48,9 @@ public class MainPageSearchField {
             MainPageSearch mainPageSearch = new MainPageSearch(driver);
             mainPageSearch.searchFieldInput("::::::");
             mainPageSearch.searchButtonClick();
-            mainPageSearch.waitForPageTitle("::::::");
-            mainPageSearch.checkFindItemText("::::::");
+            mainPageSearch.waitForPageTitle("«::::::»");
+            mainPageSearch.checkFindItemText("«::::::»");
+            mainPageSearch.searchFieldInputClean();
             }
 
          @Test(priority = 3)

@@ -20,6 +20,11 @@ public class MainPageSearch {
             return this;
         }
 
+    public MainPageSearch searchFieldInputClean(){
+        driver.findElement(searchField).clear();
+        return this;
+    }
+
         public MainPageSearch searchButtonClick(){
             driver.findElement(searchButton).click();
             return this;

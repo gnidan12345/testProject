@@ -9,6 +9,10 @@
 
     <test name="GitHubTestAndPreProdEnv" > <classes> <class name="GitHubTestAndPreProdEnv" /> </classes> </test>
 
+    <test name="CssDinnerPlayWithWaits" > <classes> <class name="CssDinnerPlayWithWaits" /> </classes> </test>
+
+    <test name="CssDinnerPlayAnotherWay" > <classes> <class name="CssDinnerPlayAnotherWay" /> </classes> </test>
+
 
 
 <!--    <test name="Regression1">-->

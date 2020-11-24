@@ -39,7 +39,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.MainPageSearchField">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml">
     <configuration name="C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -50,10 +55,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitHubTestAndPreProdEnv" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CssDinnerPlayWithWaits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GitHubTestAndPreProdEnv" />
+      <option name="MAIN_CLASS_NAME" value="CssDinnerPlayWithWaits" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -72,11 +77,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageSearchField.findValidValue" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MainPageSearchField.findInvalidValue" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainPageSearchField" />
-      <option name="METHOD_NAME" value="findValidValue" />
+      <option name="METHOD_NAME" value="findInvalidValue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MainPageSearchField" />
         <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
-        <item itemvalue="TestNG.GitHubTestAndPreProdEnv" />
+        <item itemvalue="TestNG.MainPageSearchField" />
+        <item itemvalue="TestNG.MainPageSearchField.findInvalidValue" />
         <item itemvalue="TestNG.MainPageSearchField.findValueNotFromBraedCrumbs" />
-        <item itemvalue="TestNG.MainPageSearchField.findValidValue" />
+        <item itemvalue="TestNG.CssDinnerPlayWithWaits" />
       </list>
     </recent_temporary>
   </component>
@@ -144,29 +149,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603645241453" />
-    <state width="1859" height="342" key="GridCell.Tab.0.bottom" timestamp="1606066850571">
+    <state width="1859" height="342" key="GridCell.Tab.0.bottom" timestamp="1606250914386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1859" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606066850571" />
-    <state width="1859" height="342" key="GridCell.Tab.0.center" timestamp="1606066850571">
+    <state width="1859" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606250914386" />
+    <state width="1859" height="342" key="GridCell.Tab.0.center" timestamp="1606250914386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1859" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606066850571" />
-    <state width="1859" height="342" key="GridCell.Tab.0.left" timestamp="1606066850571">
+    <state width="1859" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606250914386" />
+    <state width="1859" height="342" key="GridCell.Tab.0.left" timestamp="1606250914386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1859" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606066850571" />
-    <state width="1859" height="342" key="GridCell.Tab.0.right" timestamp="1606066850571">
+    <state width="1859" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606250914386" />
+    <state width="1859" height="342" key="GridCell.Tab.0.right" timestamp="1606250914386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1859" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606066850571" />
+    <state width="1859" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606250914386" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1605729170757">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605729170757" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1606033051781">
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1606200706361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606033051781" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606200706361" />
   </component>
 </project>
