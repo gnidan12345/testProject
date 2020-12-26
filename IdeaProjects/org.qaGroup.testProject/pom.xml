@@ -28,7 +28,76 @@
         </dependency>
 
 
+        <dependency>
+                 <groupId>ru.yandex.qatools.ashot</groupId>
+                 <artifactId>ashot</artifactId>
+                 <version>1.5.4</version>
+           </dependency>
+
+<!--        <dependency>-->
+<!--                <groupId>io.qameta.allure</groupId>-->
+<!--                <artifactId>allure-testng</artifactId>-->
+<!--                <version>2.12.0</version>-->
+<!--        </dependency>-->
+
+        <dependency>
+                <groupId>log4j</groupId>
+                <artifactId>log4j</artifactId>
+                <version>1.2.17</version>
+        </dependency>
+
+        <dependency>
+                <groupId>com.relevantcodes</groupId>
+                <artifactId>extentreports</artifactId>
+                <version>2.41.2</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.aeonbits.owner/owner-java8 -->
+        <dependency>
+            <groupId>org.aeonbits.owner</groupId>
+            <artifactId>owner-java8</artifactId>
+            <version>1.0.10</version>
+        </dependency>
+
+
 
     </dependencies>
+
+    <build>
+        <plugins>
+                        <plugin>
+                            <groupId>org.apache.maven.plugins</groupId>
+                            <artifactId>maven-compiler-plugin</artifactId>
+                            <configuration>
+                                <source>1.8</source>
+                                <target>1.8</target>
+                            </configuration>
+                        </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.0.0-M1</version>
+                <configuration>
+                    <!--                    <systemPropertyVariables>-->
+                    <!--                        <configuration.path>${configuration.path}</configuration.path>-->
+                    <!--                    </systemPropertyVariables>-->
+                    <suiteXmlFiles>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+<!--                    <argLine>-->
+<!--                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"-->
+<!--                    </argLine>-->
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.aspectj</groupId>
+                        <artifactId>aspectjweaver</artifactId>
+                        <version>1.8.10</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+    </build>
+
 
 </project>
