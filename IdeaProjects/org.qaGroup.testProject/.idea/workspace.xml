@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/actions" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TryToFindElements">
+  <component name="RunManager" selected="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml">
     <configuration name="C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -80,12 +80,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageSearchField.findValueNotFromBraedCrumbs" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLoginAndLogout" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPageSearchField" />
-      <option name="METHOD_NAME" value="findValueNotFromBraedCrumbs" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="TestLoginAndLogout" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TryToFindElements" />
         <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
+        <item itemvalue="TestNG.TestLoginAndLogout" />
+        <item itemvalue="TestNG.TryToFindElements" />
         <item itemvalue="TestNG.MainPageSearchField" />
         <item itemvalue="TestNG.MainPageSearchField.findInvalidValue" />
-        <item itemvalue="TestNG.MainPageSearchField.findValueNotFromBraedCrumbs" />
       </list>
     </recent_temporary>
   </component>
@@ -139,10 +138,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="177" key="#Project_Structure" timestamp="1607268997650">
+    <state x="552" y="177" key="#Project_Structure" timestamp="1610302985711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1607268997650" />
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610302985711" />
     <state x="100" y="100" width="1719" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605989987582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -155,22 +154,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607186098909" />
-    <state width="1340" height="325" key="GridCell.Tab.0.bottom" timestamp="1607411490438">
+    <state width="1340" height="325" key="GridCell.Tab.0.bottom" timestamp="1610282410733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607411490438" />
-    <state width="1340" height="325" key="GridCell.Tab.0.center" timestamp="1607411490438">
+    <state width="1340" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
+    <state width="1340" height="325" key="GridCell.Tab.0.center" timestamp="1610282410733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607411490438" />
-    <state width="1340" height="325" key="GridCell.Tab.0.left" timestamp="1607411490378">
+    <state width="1340" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
+    <state width="1340" height="325" key="GridCell.Tab.0.left" timestamp="1610282410733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607411490378" />
-    <state width="1340" height="325" key="GridCell.Tab.0.right" timestamp="1607411490438">
+    <state width="1340" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
+    <state width="1340" height="325" key="GridCell.Tab.0.right" timestamp="1610282410733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607411490438" />
+    <state width="1340" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
     <state x="624" y="218" key="NewModule_or_Project.wizard" timestamp="1607185695052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,9 +178,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607279440394" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1609077434411">
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1610280418718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609077434411" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610280418718" />
   </component>
 </project>
