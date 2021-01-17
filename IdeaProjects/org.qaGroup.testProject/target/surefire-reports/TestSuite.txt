@@ -1,72 +1,17 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 3, Errors: 0, Skipped: 2, Time elapsed: 638.768 s <<< FAILURE! - in TestSuite
-setup(TestLoginAndLogout)  Time elapsed: 619.46 s  <<< FAILURE!
-org.openqa.selenium.SessionNotCreatedException: 
-session not created
-from timeout: Timed out receiving message from renderer: 600.000
-  (Session info: chrome=87.0.4280.88)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: '1-ой', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '10.0.2'
-Driver info: driver.version: ChromeDriver
-remote stacktrace: Backtrace:
-	Ordinal0 [0x0157C013+3194899]
-	Ordinal0 [0x01466021+2056225]
-	Ordinal0 [0x012FF608+587272]
-	Ordinal0 [0x012F36EC+538348]
-	Ordinal0 [0x012F2A6F+535151]
-	Ordinal0 [0x012F2E45+536133]
-	Ordinal0 [0x012F27A5+534437]
-	Ordinal0 [0x012EF0EA+520426]
-	Ordinal0 [0x012F2754+534356]
-	Ordinal0 [0x012F25BF+533951]
-	Ordinal0 [0x012F23D3+533459]
-	Ordinal0 [0x01300620+591392]
-	Ordinal0 [0x012A2A0C+207372]
-	Ordinal0 [0x012A1D0D+204045]
-	Ordinal0 [0x0129FC1B+195611]
-	Ordinal0 [0x01283B7F+80767]
-	Ordinal0 [0x01284B4E+84814]
-	Ordinal0 [0x01284AD9+84697]
-	Ordinal0 [0x0147CE64+2149988]
-	GetHandleVerifier [0x016EBE95+1400773]
-	GetHandleVerifier [0x016EBB61+1399953]
-	GetHandleVerifier [0x016F31FA+1430314]
-	GetHandleVerifier [0x016EC69F+1402831]
-	Ordinal0 [0x01473D61+2112865]
-	Ordinal0 [0x0147E5CB+2155979]
-	Ordinal0 [0x0147E6F5+2156277]
-	Ordinal0 [0x0148F26E+2224750]
-	BaseThreadInitThunk [0x756F336A+18]
-	RtlInitializeExceptionChain [0x77DC9902+99]
-	RtlInitializeExceptionChain [0x77DC98D5+54]
-
-	at TestLoginAndLogout.setup(TestLoginAndLogout.java:17)
-
-inspectMainPage(GitHubTestAndPreProdEnv)  Time elapsed: 0.055 s  <<< FAILURE!
-org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//span[@itemprop="additionalName"]"}
-  (Session info: chrome=87.0.4280.88)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: '1-ой', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '10.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\1\AppData\Local\Te...}, goog:chromeOptions: {debuggerAddress: localhost:53758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 73233d9b0e3ba7644c42df3e0e5a26f2
-*** Element info: {Using=xpath, value=//span[@itemprop="additionalName"]}
-	at GitHubTestAndPreProdEnv.inspectMainPage(GitHubTestAndPreProdEnv.java:33)
-
-logoutFromGitHub(GitHubTestAndPreProdEnv)  Time elapsed: 0.03 s  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.584 s <<< FAILURE! - in TestSuite
+logoutFromGitHub(GitHubTestAndPreProdEnv)  Time elapsed: 0.098 s  <<< FAILURE!
 org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"xpath","selector":"//summary[@aria-label = 'View profile and more']"}
-  (Session info: chrome=87.0.4280.88)
+  (Session info: chrome=87.0.4280.141)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: '1-ой', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '10.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\1\AppData\Local\Te...}, goog:chromeOptions: {debuggerAddress: localhost:53758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 73233d9b0e3ba7644c42df3e0e5a26f2
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.141, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\1\AppData\Local\Te...}, goog:chromeOptions: {debuggerAddress: localhost:63123}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: eca718486d4dd3870333dcd3ff28eee2
 *** Element info: {Using=xpath, value=//summary[@aria-label = 'View profile and more']}
 	at GitHubTestAndPreProdEnv.logoutFromGitHub(GitHubTestAndPreProdEnv.java:39)
 
