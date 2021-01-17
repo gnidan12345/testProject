@@ -50,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml">
+  <component name="RunManager" selected="TestNG.GitHubTestAndPreProdEnv">
     <configuration name="C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -172,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
         <item itemvalue="TestNG.GitHubTestAndPreProdEnv" />
+        <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
         <item itemvalue="TestNG.MainPageSearchField" />
         <item itemvalue="TestNG.TestLoginAndLogout" />
         <item itemvalue="TestNG.CssDinnerPlayAnotherWay" />
@@ -218,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="100" width="1719" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605989987582" />
-    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610396960843">
+    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610913034182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610396960843" />
+    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610913034182" />
     <state x="942" y="303" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610394510292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -238,22 +238,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610480293013" />
-    <state width="1034" height="325" key="GridCell.Tab.0.bottom" timestamp="1610652043839">
+    <state width="1033" height="325" key="GridCell.Tab.0.bottom" timestamp="1610914602727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
-    <state width="1034" height="325" key="GridCell.Tab.0.center" timestamp="1610652043839">
+    <state width="1033" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610914602727" />
+    <state width="1033" height="325" key="GridCell.Tab.0.center" timestamp="1610914602727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
-    <state width="1034" height="325" key="GridCell.Tab.0.left" timestamp="1610652043839">
+    <state width="1033" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610914602727" />
+    <state width="1033" height="325" key="GridCell.Tab.0.left" timestamp="1610914602727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
-    <state width="1034" height="325" key="GridCell.Tab.0.right" timestamp="1610652043839">
+    <state width="1033" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610914602727" />
+    <state width="1033" height="325" key="GridCell.Tab.0.right" timestamp="1610914602727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1034" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
+    <state width="1033" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610914602727" />
     <state x="624" y="218" key="NewModule_or_Project.wizard" timestamp="1607185695052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

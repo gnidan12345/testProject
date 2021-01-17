@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Regression]" guice-stage="DEVELOPMENT" verbose="0">
-  <test thread-count="5" name="TestLoginAndLogout(failed)" verbose="0">
-    <classes>
-      <class name="TestLoginAndLogout">
-        <methods>
-          <include name="testLogin"/>
-          <include name="teardown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- TestLoginAndLogout -->
-    </classes>
-  </test> <!-- TestLoginAndLogout(failed) -->
   <test thread-count="5" name="GitHubTestAndPreProdEnv(failed)" verbose="0">
     <classes>
       <class name="GitHubTestAndPreProdEnv">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="inspectMainPage"/>
           <include name="logoutFromGitHub"/>
         </methods>
       </class> <!-- GitHubTestAndPreProdEnv -->
