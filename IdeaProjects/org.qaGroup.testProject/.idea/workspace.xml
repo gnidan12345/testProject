@@ -18,7 +18,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -34,11 +34,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/actions" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.608046" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +54,57 @@
     <configuration name="C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CssDinnerPlayAnotherWay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="org.qaGroup.testProject" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CssDinnerPlayAnotherWay" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubTestAndPreProdEnv" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="org.qaGroup.testProject" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubTestAndPreProdEnv" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -59,21 +113,18 @@
     </configuration>
     <configuration name="MainPageSearchField" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainPageSearchField" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainPageSearchField.findInvalidValue" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="org.qaGroup.testProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPageSearchField" />
-      <option name="METHOD_NAME" value="findInvalidValue" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -82,20 +133,37 @@
     </configuration>
     <configuration name="TestLoginAndLogout" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestLoginAndLogout" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryToFindElements" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="org.qaGroup.testProject" />
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TryToFindElements" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -105,10 +173,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
-        <item itemvalue="TestNG.TestLoginAndLogout" />
-        <item itemvalue="TestNG.TryToFindElements" />
+        <item itemvalue="TestNG.GitHubTestAndPreProdEnv" />
         <item itemvalue="TestNG.MainPageSearchField" />
-        <item itemvalue="TestNG.MainPageSearchField.findInvalidValue" />
+        <item itemvalue="TestNG.TestLoginAndLogout" />
+        <item itemvalue="TestNG.CssDinnerPlayAnotherWay" />
       </list>
     </recent_temporary>
   </component>
@@ -142,45 +210,65 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610302985711" />
+    <state x="666" y="156" width="1092" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610396482391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="156" width="1092" height="745" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610396482391" />
     <state x="100" y="100" width="1719" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1605989987582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="100" width="1719" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605989987582" />
-    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609092511936">
+    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610396960843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609092511936" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607186098909">
+    <state x="955" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610396960843" />
+    <state x="942" y="303" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610394510292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607186098909" />
-    <state width="1340" height="325" key="GridCell.Tab.0.bottom" timestamp="1610282410733">
+    <state x="942" y="303" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610394510292" />
+    <state x="941" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610394373373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
-    <state width="1340" height="325" key="GridCell.Tab.0.center" timestamp="1610282410733">
+    <state x="941" y="295" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610394373373" />
+    <state x="1071" y="277" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1610482553782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
-    <state width="1340" height="325" key="GridCell.Tab.0.left" timestamp="1610282410733">
+    <state x="1071" y="277" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610482553782" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1610480293013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
-    <state width="1340" height="325" key="GridCell.Tab.0.right" timestamp="1610282410733">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610480293013" />
+    <state width="1034" height="325" key="GridCell.Tab.0.bottom" timestamp="1610652043839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610282410733" />
+    <state width="1034" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
+    <state width="1034" height="325" key="GridCell.Tab.0.center" timestamp="1610652043839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1034" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
+    <state width="1034" height="325" key="GridCell.Tab.0.left" timestamp="1610652043839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1034" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
+    <state width="1034" height="325" key="GridCell.Tab.0.right" timestamp="1610652043839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1034" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610652043839" />
     <state x="624" y="218" key="NewModule_or_Project.wizard" timestamp="1607185695052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="218" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607185695052" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1607279440394">
+    <state x="721" y="141" key="SettingsEditor" timestamp="1610651587552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607279440394" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1610280418718">
+    <state x="721" y="141" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610651587552" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1610895870831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610280418718" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610895870831" />
+    <state x="945" y="460" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1610393120174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="945" y="460" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1610393120174" />
   </component>
 </project>
