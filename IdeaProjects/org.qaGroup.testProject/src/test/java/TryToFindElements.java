@@ -45,8 +45,7 @@ public class TryToFindElements {
         Assert.assertEquals(driver.findElement(By.xpath("//span[@class='menu-toggler__text']")).getText(), "Каталог товаров");
 
         //3.check location of the element and does it match with expectation
-
-       // System.out.println(driver.findElement(By.xpath("//a[@class=\"menu-categories__link\"]/span")).getLocation());
+        System.out.println(driver.findElement(By.xpath("//a[@class=\"menu-categories__link\"]/span")).getLocation());
 
         Assert.assertEquals(driver.findElement(By.xpath("//a[@class='menu-categories__link']/span")).getLocation().toString(), "(198, 144)");
 

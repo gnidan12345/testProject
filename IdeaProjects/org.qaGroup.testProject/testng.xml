@@ -3,15 +3,15 @@
 <suite name="Regression" verbose="1" >
     <test name="TestLoginAndLogout" > <classes> <class name="TestLoginAndLogout" /> </classes> </test>
 
-    <test name="TryToFindElements" > <classes> <class name="TryToFindElements" /> </classes> </test>
+<!--    <test name="TryToFindElements" > <classes> <class name="TryToFindElements" /> </classes> </test>-->
 
-    <test name="MainPageSearchField" > <classes> <class name="MainPageSearchField" /> </classes> </test>
+<!--    <test name="MainPageSearchField" > <classes> <class name="MainPageSearchField" /> </classes> </test>-->
 
     <test name="GitHubTestAndPreProdEnv" > <classes> <class name="GitHubTestAndPreProdEnv" /> </classes> </test>
 
-    <test name="CssDinnerPlayWithWaits" > <classes> <class name="CssDinnerPlayWithWaits" /> </classes> </test>
+<!--    <test name="CssDinnerPlayWithWaits" > <classes> <class name="CssDinnerPlayWithWaits" /> </classes> </test>-->
 
-    <test name="CssDinnerPlayAnotherWay" > <classes> <class name="CssDinnerPlayAnotherWay" /> </classes> </test>
+<!--    <test name="CssDinnerPlayAnotherWay" > <classes> <class name="CssDinnerPlayAnotherWay" /> </classes> </test>-->
 
 
 
