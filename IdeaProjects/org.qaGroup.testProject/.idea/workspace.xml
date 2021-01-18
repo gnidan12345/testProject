@@ -24,6 +24,7 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -40,17 +41,17 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/actions" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.608046" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GitHubTestAndPreProdEnv">
+  <component name="RunManager" selected="TestNG.TestLoginAndLogout">
     <configuration name="C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="org.qaGroup.testProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -172,10 +173,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestLoginAndLogout" />
         <item itemvalue="TestNG.GitHubTestAndPreProdEnv" />
         <item itemvalue="TestNG.C:/Users/1/IdeaProjects/org.qaGroup.testProject/testng.xml" />
         <item itemvalue="TestNG.MainPageSearchField" />
-        <item itemvalue="TestNG.TestLoginAndLogout" />
         <item itemvalue="TestNG.CssDinnerPlayAnotherWay" />
       </list>
     </recent_temporary>
@@ -238,30 +239,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610480293013" />
-    <state width="1031" height="325" key="GridCell.Tab.0.bottom" timestamp="1610918692132">
+    <state width="1030" height="325" key="GridCell.Tab.0.bottom" timestamp="1610999476345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1031" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610918692132" />
-    <state width="1031" height="325" key="GridCell.Tab.0.center" timestamp="1610918692132">
+    <state width="1030" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610999476345" />
+    <state width="1030" height="325" key="GridCell.Tab.0.center" timestamp="1610999476345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1031" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610918692132" />
-    <state width="1031" height="325" key="GridCell.Tab.0.left" timestamp="1610918692132">
+    <state width="1030" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610999476345" />
+    <state width="1030" height="325" key="GridCell.Tab.0.left" timestamp="1610999476344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1031" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610918692132" />
-    <state width="1031" height="325" key="GridCell.Tab.0.right" timestamp="1610918692132">
+    <state width="1030" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610999476344" />
+    <state width="1030" height="325" key="GridCell.Tab.0.right" timestamp="1610999476345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1031" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610918692132" />
+    <state width="1030" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610999476345" />
     <state x="624" y="218" key="NewModule_or_Project.wizard" timestamp="1607185695052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="624" y="218" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607185695052" />
-    <state x="721" y="141" key="SettingsEditor" timestamp="1610917515873">
+    <state x="721" y="141" key="SettingsEditor" timestamp="1610999462668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="141" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610917515873" />
+    <state x="721" y="141" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610999462668" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1610996595645">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
