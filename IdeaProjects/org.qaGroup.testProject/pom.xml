@@ -76,9 +76,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.0.0-M1</version>
                 <configuration>
-<!--                    <systemPropertyVariables>-->
-<!--                        <configuration.path>${configuration.path}</configuration.path>-->
-<!--                    </systemPropertyVariables>-->
+                    <systemPropertyVariables>
+                        <configuration.path>${configuration.path}</configuration.path>
+                    </systemPropertyVariables>
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
