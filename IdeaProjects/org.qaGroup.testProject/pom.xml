@@ -85,7 +85,7 @@
                      
                 <configuration>
                           <testFailureIgnore>true</testFailureIgnore>
-                   <systemProperties> <property> <name>allure.results.directory</name> <value>D:\testProject\Project\target\allure-results</value> </property> </systemProperties>
+                   <systemProperties> <property> <name>allure.results.directory</name> <value>C:\Users\1\IdeaProjects\org.qaGroup.testProject\target\allure-results</value> </property> </systemProperties>
 
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
