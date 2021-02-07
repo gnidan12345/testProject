@@ -27,13 +27,13 @@ public class GitHubTestAndPreProdEnv {
         login.loginUserIntoAccount(testEnvironment.login(), testEnvironment.password());
     }
 
-//
-//@Test(priority = 2 )
-////    public  void inspectMainPage(){
-////        InspectionsGithub inspect = new InspectionsGithub(driver);
-////        inspect.checkAccountName(testEnvironment.accountowner());
-////    }
-    @Test(priority = 2)
+
+@Test(priority = 2 )
+    public  void inspectMainPage(){
+        InspectionsGithub inspect = new InspectionsGithub(driver);
+        inspect.checkAccountName(testEnvironment.accountowner());
+    }
+    @Test(priority = 3)
     public void logoutFromGitHub() throws InterruptedException {
         LogoutGithub logout = new LogoutGithub(driver);
         logout.logoutUserFromAccount(testEnvironment.accountowner());

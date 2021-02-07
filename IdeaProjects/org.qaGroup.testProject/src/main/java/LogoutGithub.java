@@ -23,7 +23,7 @@ public class LogoutGithub {
     public LogoutGithub waitUntilPageTitle(){
         new WebDriverWait(driver, 10)
                 .until(ExpectedConditions.textToBePresentInElement
-                        (driver.findElement(By.xpath("//div[@class='col-md-7 text-center text-md-left ']")), "Built for developers"));
+                        (driver.findElement(By.xpath("//div[@class='ml-md-n3 mr-md-3 col-12 col-lg-6 text-center text-md-left']")), "Where the world"));
         return this;
     }
 
