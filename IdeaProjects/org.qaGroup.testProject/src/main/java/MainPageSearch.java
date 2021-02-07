@@ -9,8 +9,8 @@ public class MainPageSearch {
     public MainPageSearch(WebDriver driver) {
         this.driver = driver;}
 
-        By searchField = By.xpath("//input[@name= 'search' and @placeholder = 'Я ищу...']");
-        By searchButton = By.xpath("//button[text()=' Найти ']");
+        By searchField = By.xpath("//input[@name= 'search' and @placeholder = 'Я шукаю...']");
+        By searchButton = By.xpath("//button[text()=' Знайти ']");
         By firstItem = By.xpath("//span[@class = 'goods-tile__title']");
         By pageHeader = By.xpath("//div[@class = 'central-wrapper']//div[@class='layout']");
 
@@ -31,7 +31,7 @@ public class MainPageSearch {
         }
 
         public MainPageSearch waitForPageTitle(String title){
-            new WebDriverWait(driver, 10).until
+            new WebDriverWait(driver, 20).until
                     (ExpectedConditions.textToBePresentInElement(
                             driver.findElement(By.xpath("//h1[@class = 'catalog-heading']")), title));
             return this;
